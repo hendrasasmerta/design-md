@@ -1,5 +1,9 @@
 ---
 version: alpha
+name: HOLDS
+release: 4.0.0
+status: stable
+lastUpdated: 2026-10-15
 tokenSource: ds-v4.json (Tokens Brücke DTCG export, 11 variable collections, generated
   2026-10-08). Components from the HOL Design System 2.0 Figma library (1gSTFbZHnohv4iJr9k51et),
   15 component pages read 2026-10-12. Document version 4.1 — see "Token Update Log (v4.1)".
